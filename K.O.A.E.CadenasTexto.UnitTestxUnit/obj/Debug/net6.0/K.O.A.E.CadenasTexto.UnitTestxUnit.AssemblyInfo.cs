@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("K.O.A.E.CadenasTexto.UnitTestxUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06fa00ba0829cc3f7c1aa337af58d01674c03491")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+178e1e917f6bb58b71c80266b32820cd7cd125c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("K.O.A.E.CadenasTexto.UnitTestxUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("K.O.A.E.CadenasTexto.UnitTestxUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

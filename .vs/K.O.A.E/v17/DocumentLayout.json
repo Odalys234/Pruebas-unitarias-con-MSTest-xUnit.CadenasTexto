@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\K.O.A.E\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AFF4A25-0926-4EF2-A3F5-8864BA9AE07C}|K.O.A.E.CadenasTexto.UnitTestxUnit\\K.O.A.E.CadenasTexto.UnitTestxUnit.csproj|c:\\users\\mineducyt\\desktop\\pruebasunitarias\\k.o.a.e\\k.o.a.e.cadenastexto.unittestxunit\\stringmanipulatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF4A25-0926-4EF2-A3F5-8864BA9AE07C}|K.O.A.E.CadenasTexto.UnitTestxUnit\\K.O.A.E.CadenasTexto.UnitTestxUnit.csproj|solutionrelative:k.o.a.e.cadenastexto.unittestxunit\\stringmanipulatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{799E2406-0762-4208-AF9E-D7FC8F4B7483}|K.O.A.E.CadenasTexto\\K.O.A.E.CadenasTexto.csproj|c:\\users\\mineducyt\\desktop\\pruebasunitarias\\k.o.a.e\\k.o.a.e.cadenastexto\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{799E2406-0762-4208-AF9E-D7FC8F4B7483}|K.O.A.E.CadenasTexto\\K.O.A.E.CadenasTexto.csproj|solutionrelative:k.o.a.e.cadenastexto\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StringManipulatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\K.O.A.E\\K.O.A.E.CadenasTexto.UnitTestxUnit\\StringManipulatorTest.cs",
+              "RelativeDocumentMoniker": "K.O.A.E.CadenasTexto.UnitTestxUnit\\StringManipulatorTest.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\K.O.A.E\\K.O.A.E.CadenasTexto.UnitTestxUnit\\StringManipulatorTest.cs",
+              "RelativeToolTip": "K.O.A.E.CadenasTexto.UnitTestxUnit\\StringManipulatorTest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:43:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StringManipulator.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\K.O.A.E\\K.O.A.E.CadenasTexto\\StringManipulator.cs",
               "RelativeDocumentMoniker": "K.O.A.E.CadenasTexto\\StringManipulator.cs",

@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\bin\Debug\net6.0\K.O.A.E.CadenasTexto.deps.json
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\bin\Debug\net6.0\K.O.A.E.CadenasTexto.dll
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\bin\Debug\net6.0\K.O.A.E.CadenasTexto.pdb
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\K.O.A.E.CadenasTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\K.O.A.E.CadenasTexto.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\K.O.A.E.CadenasTexto.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\K.O.A.E.CadenasTexto.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\K.O.A.E.CadenasTexto.sourcelink.json
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\K.O.A.E.CadenasTexto.dll
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\refint\K.O.A.E.CadenasTexto.dll
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\K.O.A.E.CadenasTexto.pdb
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\K.O.A.E\K.O.A.E.CadenasTexto\obj\Debug\net6.0\ref\K.O.A.E.CadenasTexto.dll
